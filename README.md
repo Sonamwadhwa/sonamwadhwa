@@ -16,10 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-[![](https://visitcount.itsvg.in/api?id=Sonamwadhwa&label=Profile%20Views&color=11&icon=9&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sonamwadhwa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Sonamwadhwa&label=Profile%20Views&color=11&icon=9&pretty=false" />
-</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
