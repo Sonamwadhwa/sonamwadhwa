@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I have  worked on SQL, Python and Power BI projects<br>👯 I’m looking to collaborate on Datasets for Analysis and visualization projects.<br>🌱 I’m currently learning Machine Learning.<br>⚡ Fun fact: I love to pay attention to details. 
+🔭 I have  worked on SQL, Python and Power BI projects<br>👯 I’m looking to collaborate on Datasets for Analysis and visualization projects.<br>>⚡ Fun fact: I love to pay attention to details. 
 
 
 ## 🌐 Socials:
